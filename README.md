@@ -1,15 +1,8 @@
 # Basic-python-program
+# Basic Calculator Program  
+This is a simple Python program that performs basic arithmetic operations like addition and subtraction.  
 
-## Basic Python Program
-This repository contains a Python script (`basic_program.py`) that demonstrates:
-- Input and output operations
-- Mathematical calculations
-- Loops and conditional statements
+## How to Run the Program  
+1. Ensure Python is installed on your system.  
+2. Run the program using the command: `python program.py`.  
 
-### How to Run the Program
-1. Clone the repository to your local machine:
-2. Navigate to the project folder and run the script:
-
-git add README.md
-git commit -m "Updated README with program description"
-git push origin main
