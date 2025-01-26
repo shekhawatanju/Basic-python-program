@@ -1,11 +1,10 @@
 # basic_program.py
-# A simple program to demonstrate basic Python programming concepts.
+# A simple calculator program
+def add(a, b):
+    return a + b
 
-# Ask for the user's name
-name = input("Enter your name: ")
-print(f"Hello, {name}! Welcome to the program.")
+def subtract(a, b):
+    return a - b
 
-# Perform a calculation
-number = int(input("Enter a number: "))
-squared = number ** 2
-print(f"The square of {number} is {squared}.")
+print("Addition of 5 and 3 is:", add(5, 3))
+print("Subtraction of 5 and 3 is:", subtract(5, 3))
