@@ -1,0 +1,11 @@
+# basic_program.py
+# A simple program to demonstrate basic Python programming concepts.
+
+# Ask for the user's name
+name = input("Enter your name: ")
+print(f"Hello, {name}! Welcome to the program.")
+
+# Perform a calculation
+number = int(input("Enter a number: "))
+squared = number ** 2
+print(f"The square of {number} is {squared}.")
